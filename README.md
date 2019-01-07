@@ -52,7 +52,8 @@ In order to calculate the new value of an E-Factor, the student has to assess th
 ```
 
 `EF':=EF-0.8+0.28*q-0.02*q*q`
-`EF-(q-4)(0.02q-0.2)`
+
+`EF'=(q-4)(0.02q-0.2)`
 
 ## Algorithm
 
